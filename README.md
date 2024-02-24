@@ -4,7 +4,7 @@ Este projeto faz parte do módulo do curso de Banco de Dados da ADA Tech e tem c
 
 ## Visão Geral do Projeto
 
-Neste projeto, exploramos dados de duas planilhas por meio de consultas SQL. Utilizamos o SQL Alchemy para estabelecer conexão com o banco de dados e manipular os dados armazenados. Além disso, aplicamos técnicas de visualização utilizando a biblioteca Matplotlib para apresentar insights e análises de forma gráfica.
+Neste projeto, foi explorado duas planilhas, Vendas e Produtos, por meio de consultas SQL. Foi utilizado o SQL Alchemy para estabelecer conexão com o banco de dados, com pandas o carregamento dos dados e com matploitlib a sua visualização em gráfico.
 
 ## Funcionalidades Principais
 
@@ -43,6 +43,13 @@ Certifique-se de ter todas as dependências instaladas para conseguir executar o
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para discutir novas funcionalidades, melhorias ou correções.
+
+## Arquivos
+
+1. **.CSV:** As planilhas com os dados utilizados.
+2. **Create_tables:** Script para copiar os dados das planilhas e criar o banco de dados.
+3. **Descrição do Projeto.ipynb:** Proposta do projeto.
+4. **Consultas Gerais.sql:** Neste arquivo estão todas as minhas anotações e testes para chegar nas consultas finais.
 
 ---
 
