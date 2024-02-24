@@ -19,16 +19,19 @@ Neste projeto, exploramos dados de duas planilhas por meio de consultas SQL. Uti
 2. **Notebooks Jupyter:** Contém os notebook Jupyter utilizados para realizar as análises e visualizações dos dados.
 3. **Documentação:** Inclui documentação adicional sobre o projeto, como este README.
 
-## Requisitos de Instalação
+## Requisitos de Usabilidade
 
-Para executar este projeto localmente, é necessário ter instalado:
+Utilizei as seguintes aplicações neste projeto:
 
-- Python 3.x
+- Python
 - Jupyter Notebook
 - Matplotlib
 - SQLalchemy
+- Pandas
+- Numpy
+- Random
 
-Certifique-se de ter todas as dependências instaladas antes de executar os scripts e notebooks.
+Certifique-se de ter todas as dependências instaladas para conseguir executar os scripts.
 
 ## Como Executar
 
@@ -39,8 +42,8 @@ Certifique-se de ter todas as dependências instaladas antes de executar os scri
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou criar uma issue para discutir novas funcionalidades, melhorias ou correções.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para discutir novas funcionalidades, melhorias ou correções.
 
 ---
 
-Este README serve como guia básico para entender o projeto e suas funcionalidades.
+Este README serve como guia básico para entender o projeto.
